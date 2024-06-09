@@ -20,10 +20,10 @@ namespace LaboratoryWork_3
             this.dormitory = dormitory;
         }
 
-        private void AddStdFormcs_Load(object sender, EventArgs e)
-        {
+        //private void AddStdFormcs_Load(object sender, EventArgs e)
+        //{
 
-        }
+//        }
 
         private void saveBtn_Click(object sender, EventArgs e)
         {
